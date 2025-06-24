@@ -15,5 +15,3 @@ A disciplina tem como objetivo apresentar os fundamentos da Ciência da Computa�
 - Introdução ao uso de linguagens de programação (ex.: C++, Python ou Shell Script)
 - Introdução ao uso de sistemas operacionais e linha de comando
 - Ferramentas de versionamento (Git e GitHub)
-
-## 📂 Estrutura do repositório
